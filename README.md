@@ -158,18 +158,9 @@
 
 <br/>
 <br/>
-
-## 📗 Latest blog posts:
-
-
-
-
+<br/>
 <br/>
 
-
-
-<br/>
- 
 ## ❤ Views and Followers
 <a href="https://github.com/imtalibkhan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=imtalibkhan">
