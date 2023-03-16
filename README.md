@@ -135,12 +135,12 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-  <a href="https://github.com/imtalibkhan/github-readme-stats"><img alt="Ankit Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Mishra07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/imtalibkhan/imtalibkhan/edit/main/README.md"><img alt="Ankit Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Mishra07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/imtalibkhan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Mishra07&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/imtalibkhan/imtalibkhan/edit/main/README.md">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imtalibkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>                                                                                                                                              
 
