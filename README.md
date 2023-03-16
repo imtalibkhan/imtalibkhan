@@ -135,18 +135,18 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-  <a href="https://github.com/imtalibkhan/imtalibkhan/edit/main/README.md"><img alt="Ankit Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Mishra07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/imtalibkhan/imtalibkhan/edit/main/README.md"><img alt="Abutalib Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtalibkhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/imtalibkhan/imtalibkhan/edit/main/README.md">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imtalibkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abutalib khan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imtalibkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/imtalibkhan/github-readme-stats"><img alt="Ankit Mishra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imtalibkhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/imtalibkhan/github-readme-stats"><img alt="Abutalib khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imtalibkhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
@@ -154,7 +154,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/imtalibkhan/github-readme-activity-graph"><img alt="Ankit Mishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imtalibkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/imtalibkhan/github-readme-activity-graph"><img alt="Abutalib khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imtalibkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
