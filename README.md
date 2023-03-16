@@ -161,8 +161,4 @@
 <br/>
 <br/>
 
-## ❤ Views and Followers
-<a href="https://github.com/imtalibkhan/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=imtalibkhan">
-</a>
-<a href="https://github.com/imtalibkhan?tab=followers"><img src="https://github.com/imtalibkhan?tab=followers/imtalibkhan?label=Followers&style=social" alt="GitHub Badge"></a>  
+
