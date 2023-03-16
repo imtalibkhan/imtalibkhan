@@ -134,9 +134,9 @@
                                                                                                                        
 ## 📊 My Github Stats
    <br/>   
-    <p align="center">      
+<!--     <p align="center">      
   <a href="https://github.com/imtalibkhan/imtalibkhan/edit/main/README.md"><img alt="Abutalib Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtalibkhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>      
+      </p>       -->
      <br/>
    <p align="center">
     <a href="https://github.com/imtalibkhan/imtalibkhan/edit/main/README.md">
