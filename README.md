@@ -174,4 +174,4 @@
 <a href="https://github.com/imtalibkhan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=imtalibkhan">
 </a>
-<a href="https://github.com/imtalibkhan?tab=following"><img src="https://img.shields.io/github/followers/Ankit-Mishra07?label=Followers&style=social" alt="GitHub Badge"></a>  
+<a href="https://github.com/imtalibkhan?tab=followers"><img src="https://img.shields.io/github/followers/Ankit-Mishra07?label=Followers&style=social" alt="GitHub Badge"></a>  
