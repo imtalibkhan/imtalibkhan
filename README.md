@@ -152,5 +152,21 @@
 
 
 <br/>
+ 
+ 
+ 
+ 
+ <a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" /></a>
+<br/><br/>
+<p display="flex" align="center">
+<a href="#"><img alt="Mufadal's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtalibkhan=smalltalk&theme=algolia&layout=compact" width="400" /></a>
+  <a href="https://github.com/Mufadal03?tab=repositories">
+    <img width="400" height="auto"  alt="Mufadal's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=imtalibkhan&show_icons=true&theme=algolia&count_private=true" />
+  </a>
+  </p>
+  
+ <div  align="center" style="display: flex; justify-content:"center" ><a href="#"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=imtalibkhan&hide=smalltalk&theme=algolia&layout=compact" alt="Mufadal Sadri" /></a></div>
+
 
 
