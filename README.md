@@ -156,15 +156,6 @@
  
  
 <br/><br/>
-<p display="flex" align="center">
-<a href="#"><img alt="Mufadal's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtalibkhanlangs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Mufadal03?tab=repositories">
-    <img width="400" height="auto"  alt="Mufadal's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=imtalibkhan&show_icons=true&theme=algolia&count_private=true" />
-  </a>
-  </p>
-  
- <div  align="center" style="display: flex; justify-content:"center" ><a href="#"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=imtalibkhan&hide=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a></div>
 
 
 
