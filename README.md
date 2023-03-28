@@ -202,7 +202,7 @@
    
    
    
-<!--      <p align="center">      
+     <p align="center">      
   <a href="https://github.com/imtalibkhan/imtalibkhan/edit/main/README.md"><img alt="Abutalib Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtalibkhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>       -->
      <br/>
@@ -216,7 +216,7 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/imtalibkhan/github-readme-stats"><img alt="Abutalib khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imtalibkhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6> -->
+ <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6> 
 
 
 <br/>
