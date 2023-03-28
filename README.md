@@ -148,55 +148,7 @@
     <a href="https://github.com/imtalibkhan/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imtalibkhan&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
     </a>
-</p>
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-         
-   
-   
-   
-       
-     <br/>                                                                                                                                            
+</p>                                                                                                                                     
 
   <br/>
      <p align="center">                                                                                                 
@@ -207,9 +159,7 @@
 
 <br/>
  
- 
- 
-<br/><br/>
+
 
 
 
