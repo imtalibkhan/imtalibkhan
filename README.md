@@ -133,8 +133,76 @@
  
                                                                                                                        
 ## 📊 My Github Stats
+
+
+
+
+
+
+
+
    <br/>   
-<!--     <p align="center">      
+   
+   
+   <p align="center">
+    <a href="https://github.com/imtalibkhan/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imtalibkhan&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
+    </a>
+</p>
+
+<div align="center">  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtalibkhan&layout=compact&theme=github_dark&hide_border=true)](https://github.com/imtalibkhan)
+ ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=imtalibkhan&theme=dark&show_icons=true)
+
+<img  align="center" src="https://github-profile-trophy.vercel.app/?username=imtalibkhan&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
+
+<!--  [![mehfoozkhan github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imtalibkhan&theme=dracula)](https://github.com/mehfoozkhangithub) -->
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+<!--      <p align="center">      
   <a href="https://github.com/imtalibkhan/imtalibkhan/edit/main/README.md"><img alt="Abutalib Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtalibkhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>       -->
      <br/>
@@ -148,7 +216,7 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/imtalibkhan/github-readme-stats"><img alt="Abutalib khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imtalibkhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+ <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6> -->
 
 
 <br/>
