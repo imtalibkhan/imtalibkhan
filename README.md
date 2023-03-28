@@ -150,12 +150,6 @@
     </a>
 </p>
 
-<div align="center">  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtalibkhan&layout=compact&theme=github_dark&hide_border=true)](https://github.com/imtalibkhan)
- ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=imtalibkhan&theme=dark&show_icons=true)
-
-
-
    
    
    
