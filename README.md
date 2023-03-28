@@ -154,9 +154,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtalibkhan&layout=compact&theme=github_dark&hide_border=true)](https://github.com/imtalibkhan)
  ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=imtalibkhan&theme=dark&show_icons=true)
 
-<img  align="center" src="https://github-profile-trophy.vercel.app/?username=imtalibkhan&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
 
-<!--  [![mehfoozkhan github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imtalibkhan&theme=dracula)](https://github.com/mehfoozkhangithub) -->
+
    
    
    
@@ -198,7 +197,7 @@
    
    
    
-   
+                   <h1>Abutalib KhAn </h1>
    
    
    
