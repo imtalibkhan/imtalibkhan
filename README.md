@@ -87,15 +87,7 @@
 
 ## 💻 Top Projects
 
-<!-- <a href="https://github.com/Ankit-Mishra07/resume_builder/" target="_blank">
-<img src="https://img.shields.io/badge/resume builder-%ED225D.svg?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="resume-builder" /> 
-</a>
-<a href="https://github.com/Ankit-Mishra07/OneDoc/">
-  <img src="https://img.shields.io/badge/One Doc-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white" alt="one-doc" />
-</a>
-<a href="https://github.com/Ankit-Mishra07/weather-webApplication/">
-  <img src="https://img.shields.io/badge/Weather app-%233333FF.svg?style=for-the-badge&logo=rainmeter&logoColor=white" alt="weather" />
-</a> -->
+
  <a href="https://github.com/imtalibkhan/e-commerce-website">
            <img src="https://img.shields.io/badge/E-Commerce-%23FF6701.svg?style=for-the-badge&logo="" alt="E-Commerce"/>
   </a>
